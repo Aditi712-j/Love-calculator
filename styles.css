@@ -1,0 +1,41 @@
+
+body{
+    font-family:Arial, sans-serif;
+    background-color:#fb519d;
+}
+#main-heading{
+    text-align:center;
+    font-size: 2.5em;
+    color: azure;
+   font-style:italic;
+   padding-bottom: 12px;
+   text-shadow: 2px 2px 4px #000000;
+}
+.inputs{
+display: flex;
+justify-content: space-between;
+gap: 10px; 
+}
+.image{
+ 
+    width:50px;
+}
+.result-message{
+    text-align:center;
+    font-size: 50px;
+    color: rgb(255, 6, 35);
+    font-style:italic;
+    padding-bottom: 12px;
+    text-shadow: 2px 2px 4px #000000;
+}
+.result-percentage{
+    text-align:center;
+    font-size: 35px;
+    color: rgb(255, 6, 35);
+    font-style:italic;
+    padding-bottom: 12px;
+    
+}
+.result-heading{
+    text-align: center;
+}
